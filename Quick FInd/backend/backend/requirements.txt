@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langchain-core
+langchain-text-splitters
+chromadb
+pandas
+openpyxl
+xlrd
+python-multipart
+openai
+pypdf
+python-dotenv
